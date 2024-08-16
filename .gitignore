@@ -1,0 +1,10 @@
+node_modules
+lerna-debug.log
+npm-debug.log
+.idea
+.vscode/
+.DS_Store
+**/SDK_SESSION_POOL_STATE.json
+**/SDK_CRAWLER_STATISTICS_0.json
+**/storage/datasets
+**/storage/request_queues

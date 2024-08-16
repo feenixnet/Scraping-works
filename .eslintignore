@@ -1,0 +1,6 @@
+*/**.js
+*/**.d.ts
+templates/*/dist
+templates/*/lib
+scrapers/*/dist
+scrapers/*/lib
